@@ -1,4 +1,4 @@
-const contacts = require("./contacts");
+npm i nodemonconst contacts = require("./contacts");
 
 const { Command } = require("commander");
 const program = new Command();
